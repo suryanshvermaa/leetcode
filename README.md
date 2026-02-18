@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anshvermaaa/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/anshvermaaa/leetcode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/suryanshvermaa/leetcode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/suryanshvermaa/leetcode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/anshvermaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/anshvermaaa/leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/anshvermaaa/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/anshvermaaa/leetcode/tree/master/0224-basic-calculator) |
+| [0343-integer-break](https://github.com/suryanshvermaa/leetcode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshvermaaa/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anshvermaaa/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
