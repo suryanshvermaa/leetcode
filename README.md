@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/anshvermaaa/leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshvermaaa/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/suryanshvermaa/leetcode/tree/master/0312-burst-balloons) |
 | [0377-combination-sum-iv](https://github.com/suryanshvermaa/leetcode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshvermaaa/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/suryanshvermaa/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/anshvermaaa/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/suryanshvermaa/leetcode/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/anshvermaaa/leetcode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/suryanshvermaa/leetcode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/suryanshvermaa/leetcode/tree/master/0377-combination-sum-iv) |
