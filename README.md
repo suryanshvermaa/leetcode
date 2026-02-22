@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/anshvermaaa/leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/anshvermaaa/leetcode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/anshvermaaa/leetcode/tree/master/0389-find-the-difference) |
+| [0868-binary-gap](https://github.com/suryanshvermaa/leetcode/tree/master/0868-binary-gap) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anshvermaaa/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshvermaaa/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2401-longest-nice-subarray](https://github.com/anshvermaaa/leetcode/tree/master/2401-longest-nice-subarray) |
